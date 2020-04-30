@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  VServer
+
+  Created by Uday Pandey on 04/03/2020.
+  Copyright © 2020 Thirstysea Ltd. All rights reserved.
+*/
+
+"vserver.common.button.ok" = "OK";
+"vserver.common.error" = "Error!";
+
+"vserver.server.text.welcome" = "Enter server address";
+"vserver.server.text.placeholder" = "IP address";
+"vserver.success.text.welcome" = "Server successfully added to the cluster!";
+
+"vserver.login.text.welcome" = "Enter your credentials";
+"vserver.login.text.userNamePlaceholder" = "User Name";
+"vserver.login.text.passwordPlaceholder" = "Password";
